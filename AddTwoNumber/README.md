@@ -34,3 +34,11 @@ while result:
     print(result.val, end=" ")
     result = result.next
 ```
+
+## Running Tests
+
+To run the test file execute the following command :
+
+```
+python<version> test_add_two_number.py
+```
