@@ -1,7 +1,7 @@
 import unittest
 
-from solution import ListNode
-from solution import Solution
+from add_two_number import ListNode
+from add_two_number import Solution
 
 
 class TestAddTwoNumbers(unittest.TestCase):
