@@ -9,9 +9,7 @@ class TestSolution(unittest.TestCase):
 
         # Test cases
         self.assertEqual(solution.lengthOfLongestSubstring(""), 0)  # Empty string
-        self.assertEqual(
-            solution.lengthOfLongestSubstring("abcabcbb"), 3
-        )
+        self.assertEqual(solution.lengthOfLongestSubstring("abcabcbb"), 3)
         self.assertEqual(
             solution.lengthOfLongestSubstring("bbbbb"), 1
         )  # All characters are the same
