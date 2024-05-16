@@ -37,3 +37,11 @@ Starting from the top-left corner, we explore all possible paths to the bottom-r
 
 The BFS to compute the distance matrix runs in O(n^2).
 The modified Dijkstra's algorithm also runs in O(n^2 log n), making the solution efficient for large grids.
+
+## Running Tests
+
+To run the test file execute the following command:
+
+```bash
+python3 test_longest_sub_str.py
+```
