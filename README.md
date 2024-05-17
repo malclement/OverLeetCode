@@ -24,6 +24,7 @@ Going over leet code problems
 3. [String to Integer (atoi) (Problem 8)](https://leetcode.com/problems/string-to-integer-atoi)
 4. [Score After Flipping Matrix (Problem 861)](https://leetcode.com/problems/score-after-flipping-matrix)
 5. [Path with Maximum Gold (Problem 1219)](https://leetcode.com/problems/path-with-maximum-gold)
+6. [Delete Leaves With a Given Value (Problem 1325)](https://leetcode.com/problems/delete-leaves-with-a-given-value)
 
 #### Hard
 
