@@ -25,6 +25,7 @@ Going over leet code problems
 4. [Score After Flipping Matrix (Problem 861)](https://leetcode.com/problems/score-after-flipping-matrix)
 5. [Path with Maximum Gold (Problem 1219)](https://leetcode.com/problems/path-with-maximum-gold)
 6. [Delete Leaves With a Given Value (Problem 1325)](https://leetcode.com/problems/delete-leaves-with-a-given-value)
+7. [Palindrome Partitioning (Problem 131)](https://leetcode.com/problems/palindrome-partitioning)
 
 #### Hard
 
