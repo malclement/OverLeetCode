@@ -26,6 +26,7 @@ Going over leet code problems
 5. [Path with Maximum Gold (Problem 1219)](https://leetcode.com/problems/path-with-maximum-gold)
 6. [Delete Leaves With a Given Value (Problem 1325)](https://leetcode.com/problems/delete-leaves-with-a-given-value)
 7. [Palindrome Partitioning (Problem 131)](https://leetcode.com/problems/palindrome-partitioning)
+8. [Number of Beautiful subsets (Problem 2597)](https://leetcode.com/problems/the-number-of-beautiful-subsets)
 
 #### Hard
 
