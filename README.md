@@ -28,6 +28,7 @@ Going over leet code problems
 7. [Palindrome Partitioning (Problem 131)](https://leetcode.com/problems/palindrome-partitioning)
 8. [Number of Beautiful subsets (Problem 2597)](https://leetcode.com/problems/the-number-of-beautiful-subsets)
 9. [Longest Palindromic Substring (Problem 5)](https://leetcode.com/problems/longest-palindromic-substring)
+10. [Zigzag Conversion (Problem 6)](https://leetcode.com/problems/zigzag-conversion)
 
 #### Hard
 
