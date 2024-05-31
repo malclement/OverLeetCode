@@ -29,6 +29,7 @@ Going over leet code problems
 8. [Number of Beautiful subsets (Problem 2597)](https://leetcode.com/problems/the-number-of-beautiful-subsets)
 9. [Longest Palindromic Substring (Problem 5)](https://leetcode.com/problems/longest-palindromic-substring)
 10. [Zigzag Conversion (Problem 6)](https://leetcode.com/problems/zigzag-conversion)
+11. [Single Number III (Problem 260)](https://leetcode.com/problems/single-number-iii)
 
 #### Hard
 
