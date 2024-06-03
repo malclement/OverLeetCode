@@ -30,6 +30,7 @@ Going over leet code problems
 9. [Longest Palindromic Substring (Problem 5)](https://leetcode.com/problems/longest-palindromic-substring)
 10. [Zigzag Conversion (Problem 6)](https://leetcode.com/problems/zigzag-conversion)
 11. [Single Number III (Problem 260)](https://leetcode.com/problems/single-number-iii)
+12. [Append Characters to String to Make Subsequence (Problem 2486)](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence)
 
 #### Hard
 
