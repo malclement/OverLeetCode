@@ -16,6 +16,7 @@ Going over leet code problems
 6. [Merge Two Sorted Lists (Problem 21)](https://leetcode.com/problems/merge-two-sorted-lists)
 7. [Evaluate Boolean Binary Tree (Problem 2331)](https://leetcode.com/problems/evaluate-boolean-binary-tree)
 8. [Largest Local Values in a Matrix (Problem 2373)](https://leetcode.com/problems/largest-local-values-in-a-matrix)
+9. [Find Common Characters (Problem 1002)](https://leetcode.com/problems/find-common-characters)
 
 #### Medium
 
