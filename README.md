@@ -32,6 +32,7 @@ Going over leet code problems
 10. [Zigzag Conversion (Problem 6)](https://leetcode.com/problems/zigzag-conversion)
 11. [Single Number III (Problem 260)](https://leetcode.com/problems/single-number-iii)
 12. [Append Characters to String to Make Subsequence (Problem 2486)](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence)
+13. [Hand of Straights (Problem 846)](https://leetcode.com/problems/hand-of-straights)
 
 #### Hard
 
