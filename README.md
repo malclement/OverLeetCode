@@ -15,6 +15,7 @@ Going over leet code problems
 20.- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 21.- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 1002.- [Find Common Characters](https://leetcode.com/problems/find-common-characters)
+1051.- [Height Checker](https://leetcode.com/problems/height-checker)
 2331.- [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree)
 2373.- [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix)
 
