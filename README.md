@@ -18,6 +18,7 @@ Going over leet code problems
 8. [Height Checker](https://leetcode.com/problems/height-checker)
 9. [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree)
 10. [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix)
+11. [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds)
 
 #### Medium
 
